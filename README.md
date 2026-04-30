@@ -1,4 +1,4 @@
-# Olá, eu sou Brunna Leite Felix 👋
+# Olá, eu sou Brunna Leite Felix 💜
 
 Sou advogada de formação, em transição estruturada para a área de **Dados, Inteligência Artificial e Automação**.
 
