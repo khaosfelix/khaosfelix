@@ -1,12 +1,12 @@
 # Brunna Leite Felix
 
-**Legal Ops | IA aplicada | Dados e Automação | Python | Direito + Tecnologia**
+**Legal Ops | Legal AI | Dados e Automação | Python | Direito + Tecnologia**
 
 Sou advogada com experiência em contencioso empresarial, análise de risco, documentos, relatórios, fluxos jurídicos, atendimento a stakeholders e suporte à tomada de decisão.
 
-Atualmente direciono minha atuação para **Legal Operations, IA aplicada, dados e automação**, desenvolvendo projetos com Python, pandas, Plotly, scikit-learn, Streamlit, OpenAI API e automação de processos.
+Atualmente direciono minha atuação para **Legal Operations, IA aplicada ao Direito, dados e automação**, desenvolvendo projetos com **Python, pandas, Plotly, scikit-learn, Streamlit, OpenAI API e automação de processos**.
 
-Meu diferencial é combinar experiência jurídica real com pensamento analítico, organização de informações complexas e tecnologia aplicada a problemas concretos.
+Meu diferencial é combinar experiência jurídica real com pensamento analítico, estruturação de informações complexas, gestão do conhecimento e tecnologia aplicada a problemas concretos do jurídico.
 
 ## Foco atual
 
@@ -14,16 +14,19 @@ Meu diferencial é combinar experiência jurídica real com pensamento analític
 - IA aplicada ao Direito
 - Automação de fluxos jurídicos e operacionais
 - Análise de dados com Python
-- Machine Learning aplicado
+- Estruturação de bases de conhecimento jurídico
 - Aplicações com Streamlit e OpenAI API
-- Gestão do conhecimento jurídico
+- Machine Learning aplicado a problemas de negócio
 - Eficiência operacional e tomada de decisão baseada em dados
+- Governança de IA, uso responsável e mitigação de riscos
 
 ## Projetos em destaque
 
-### A|DVOGADA — IA aplicada ao Direito
+### A|DVOGADA — Legal AI aplicada ao Contencioso
 
-Projeto autoral voltado à aplicação responsável de IA na rotina jurídica, com foco em análise processual, revisão estratégica, padronização documental, organização de teses e automação de fluxos.
+Agente jurídico especializado em contencioso trabalhista, previdenciário e administrativo, criado para apoiar análise de autos, identificação de pedidos, mapeamento probatório, estruturação de teses, impugnação documental e redação assistida de peças processuais.
+
+O projeto incorpora fluxo jurídico estruturado, governança de IA generativa, controle de alucinação jurídica, uso responsável de fundamentos legais e jurisprudenciais, protocolo de análise de mídias e checklist final de qualidade.
 
 ### Chatbot com IA
 
