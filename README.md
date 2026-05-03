@@ -1,75 +1,51 @@
-# Olá, eu sou Brunna Leite Felix 💜
+# Brunna Leite Felix
 
-Sou advogada de formação, em transição estruturada para a área de **Dados, Inteligência Artificial e Automação**.
+**Legal Ops | IA aplicada | Dados e Automação | Python | Direito + Tecnologia**
 
-Minha trajetória começou no Direito, atuando com análise de casos, riscos, documentos, relatórios, fluxos de trabalho, atendimento a stakeholders e tomada de decisão. Com o tempo, passei a incorporar tecnologia, IA e automação à minha rotina, direcionando minha carreira para soluções mais escaláveis e orientadas por dados.
+Sou advogada com experiência em contencioso empresarial, análise de risco, documentos, relatórios, fluxos jurídicos, atendimento a stakeholders e suporte à tomada de decisão.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e desenvolvo projetos práticos com foco em:
+Atualmente direciono minha atuação para **Legal Operations, IA aplicada, dados e automação**, desenvolvendo projetos com Python, pandas, Plotly, scikit-learn, Streamlit, OpenAI API e automação de processos.
 
-- Análise de dados
-- Python
-- Automação de processos
-- IA aplicada
-- Legal Operations
-- Soluções jurídicas orientadas por tecnologia
+Meu diferencial é combinar experiência jurídica real com pensamento analítico, organização de informações complexas e tecnologia aplicada a problemas concretos.
 
-## 🚀 Foco atual
+## Foco atual
 
-- Python para análise de dados
-- pandas, Plotly e visualização de dados
+- Legal Operations e Legal Innovation
+- IA aplicada ao Direito
+- Automação de fluxos jurídicos e operacionais
+- Análise de dados com Python
 - Machine Learning aplicado
-- Streamlit e aplicações interativas
-- OpenAI API e IA generativa
-- SQL e Power BI em desenvolvimento
-- Automação de rotinas operacionais
+- Aplicações com Streamlit e OpenAI API
+- Gestão do conhecimento jurídico
+- Eficiência operacional e tomada de decisão baseada em dados
 
-## 🧠 Principais interesses
-
-- Data Analytics
-- IA aplicada a problemas reais
-- Automação de processos
-- Legal Tech
-- Legal Operations
-- Jurimetria
-- Eficiência operacional
-- Tomada de decisão baseada em dados
-
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ### A|DVOGADA — IA aplicada ao Direito
-Projeto autoral voltado à aplicação de IA na rotina jurídica, com foco em análise processual, revisão estratégica, padronização de peças, organização de teses e automação de fluxos de trabalho.
-
-### Análise de Cancelamento de Clientes
-Projeto de análise exploratória de dados com Python, pandas e Plotly para identificar padrões de churn e gerar insights de negócio.
-
-### Predição de Nota de Crédito
-Projeto de Machine Learning com pandas e scikit-learn para classificação/predição de nota de crédito.
-
-### Automação de Cadastro de Produtos
-Automação em Python com PyAutoGUI e pandas para reduzir atividades manuais repetitivas.
+Projeto autoral voltado à aplicação responsável de IA na rotina jurídica, com foco em análise processual, revisão estratégica, padronização documental, organização de teses e automação de fluxos.
 
 ### Chatbot com IA
-Aplicação com Streamlit e OpenAI API para criação de chatbot com interface personalizada.
+Aplicação em Python com Streamlit e OpenAI API, interface personalizada, histórico de conversa e uso de IA generativa em ambiente web.
 
-## 🛠️ Tecnologias e ferramentas
+### Análise de Cancelamento de Clientes
+Análise exploratória de churn com Python, pandas e Plotly para identificar padrões de cancelamento e gerar hipóteses de retenção.
 
-Python • pandas • Plotly • scikit-learn • Streamlit • OpenAI API • PyAutoGUI • Excel • SQL em desenvolvimento • Power BI em desenvolvimento • Git • GitHub
+### Predição de Score de Crédito
+Projeto de machine learning com pandas e scikit-learn para classificação de score de crédito e comparação de modelos.
 
-## 📫 Contato
+### Automação de Cadastro de Produtos
+Automação com Python, PyAutoGUI e pandas para reduzir tarefas manuais repetitivas.
+
+## Tecnologias e ferramentas
+
+Python · pandas · Plotly · scikit-learn · Streamlit · OpenAI API · PyAutoGUI · Excel · Git · GitHub  
+SQL, Power BI, Cloud e Cibersegurança em desenvolvimento
+
+## Objetivo profissional
+
+Busco oportunidades em **Legal Ops, Legal Innovation, IA aplicada, dados, automação, análise de processos, operações jurídicas, legaltechs e jurídico corporativo com tecnologia aplicada**.
+
+## Contato
 
 LinkedIn: https://linkedin.com/in/brunnalfelix
-
-<!--
-**khaosfelix/khaosfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: https://github.com/khaosfelix
