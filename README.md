@@ -22,24 +22,30 @@ Meu diferencial é combinar experiência jurídica real com pensamento analític
 ## Projetos em destaque
 
 ### A|DVOGADA — IA aplicada ao Direito
+
 Projeto autoral voltado à aplicação responsável de IA na rotina jurídica, com foco em análise processual, revisão estratégica, padronização documental, organização de teses e automação de fluxos.
 
 ### Chatbot com IA
+
 Aplicação em Python com Streamlit e OpenAI API, interface personalizada, histórico de conversa e uso de IA generativa em ambiente web.
 
 ### Análise de Cancelamento de Clientes
+
 Análise exploratória de churn com Python, pandas e Plotly para identificar padrões de cancelamento e gerar hipóteses de retenção.
 
 ### Predição de Score de Crédito
+
 Projeto de machine learning com pandas e scikit-learn para classificação de score de crédito e comparação de modelos.
 
 ### Automação de Cadastro de Produtos
+
 Automação com Python, PyAutoGUI e pandas para reduzir tarefas manuais repetitivas.
 
 ## Tecnologias e ferramentas
 
-Python · pandas · Plotly · scikit-learn · Streamlit · OpenAI API · PyAutoGUI · Excel · Git · GitHub  
-SQL, Power BI, Cloud e Cibersegurança em desenvolvimento
+Python · pandas · Plotly · scikit-learn · Streamlit · OpenAI API · PyAutoGUI · Excel · Git · GitHub
+
+SQL, Power BI, Cloud e Cibersegurança em desenvolvimento.
 
 ## Objetivo profissional
 
@@ -47,5 +53,5 @@ Busco oportunidades em **Legal Ops, Legal Innovation, IA aplicada, dados, automa
 
 ## Contato
 
-LinkedIn: https://linkedin.com/in/brunnalfelix
+LinkedIn: https://linkedin.com/in/brunnalfelix  
 GitHub: https://github.com/khaosfelix
